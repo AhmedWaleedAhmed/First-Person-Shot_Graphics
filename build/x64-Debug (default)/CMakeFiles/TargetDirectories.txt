@@ -1,0 +1,8 @@
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/CMakeFiles/lab5.dir
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/vendor/glfw/CMakeFiles/edit_cache.dir
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/vendor/glfw/CMakeFiles/rebuild_cache.dir
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/vendor/glfw/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/vendor/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Ahmed/CMakeBuilds/5f0e1c27-e49e-9230-8015-933548addd0e/build/x64-Debug (default)/vendor/glfw/src/CMakeFiles/edit_cache.dir
